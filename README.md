@@ -4,7 +4,7 @@ Este é um projeto simples de uma tela de login para testes, desenvolvida em Jav
 # Recursos 
 Foram usados o eclipse e a biblioteca java do JUnit.
 
-# Resultado do Testes do JUnit
+# Resultado do Teste JUnit
 
 <img width="958" alt="Teste2" src="https://github.com/DaviCandidodeOliveira/LoginScreen/assets/104933418/00bb16bd-dea7-49dd-82e5-14543ca42e48">
 <img width="960" alt="Teste1" src="https://github.com/DaviCandidodeOliveira/LoginScreen/assets/104933418/7fe619e5-9335-45b3-9f69-11a8df933cf5">
